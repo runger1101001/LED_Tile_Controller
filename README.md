@@ -27,9 +27,9 @@ More detailed explanation of how to use this controller can be found in the firm
 
 This project was created in KiCad 6. You may need symbols/footprints from [my KiCad library](https://github.com/runger1101001/kicad-lib-runger).
 
-Making the controller board should not be difficult. It is a fairly simple 4 layer board. The board outline requires routing. 
+Ordering the controller board PCB should not be difficult. It is a fairly simple 4 layer board. The board outline requires routing. 
 
-Pay attention to the slot in the board to board connector (gerber layer User.1), which has to be routed out precisely for the connector to fit and work.
+Pay attention to the slot in the board to board connector (gerber layer User.1), which has to be routed out precisely for the connector to fit and work. The board thickness should be 1.6mm, other thicknesses will not work with the connector.
 
 ## Flashing the controller
 
