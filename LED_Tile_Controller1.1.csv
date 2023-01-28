@@ -1,0 +1,25 @@
+Item,Ref Des,Qty,Manufacturer,Mfg Part #,Description / Value,Package,Type,Your Instructions / Notes
+1,"C1,C2,C3",3,Murata,GRM31CR61A476ME15K,47uF 10V,C_1206_3216Metric,SMD,; Unpolarized capacitor; 
+2,"C4,C7,C11,C14,C17,C18",6,Murata,GRM155R71A104KA01J,100nF 10V,C_0402_1005Metric,SMD,; Unpolarized capacitor; 
+3,C6,1,Murata,ZRB15XR61A106ME01D,10uF 10V,C_0402_1005Metric,SMD,; Unpolarized capacitor; 
+4,"C8,C10",2,Vishay,VJ0402A470GXQCW1BC,47pF 10V,C_0402_1005Metric,SMD,; Unpolarized capacitor; 
+5,"C12,C15",2,Taiyo Yuden,EMK107ABJ225KA8T,2.2uF 16V,C_0603_1608Metric,SMD,; Unpolarized capacitor; 
+6,C13,1,Murata,GRT155C80J105KE01D,1uF 6.3V,C_0402_1005Metric,SMD,; Unpolarized capacitor; 
+7,C16,1,Taiyo Yuden,LMF105B7103KVHF,10nF 10V,C_0402_1005Metric,SMD,; Unpolarized capacitor; 
+8,D2,1,Vishay,SSC53L-M3/57T,SSC53L-M3/57T,D_SMC,SMD,; Diode; 
+9,D3,1,Wurth,150040VS73240,green,LED_0402_1005Metric,SMD,; Light emitting diode; 
+10,FB1,1,Laird,HI0805P390R-10,40Ω@100Mhz,L_0805_2012Metric,SMD,; Ferrite bead; 
+11,J5,1,HRO,HRO_TYPE-C-31-M-12,USB_C_Receptacle_USB2.0,USB_C_Receptacle_HRO_TYPE-C-31-M-12,SMD,; USB 2.0-only Type-C Receptacle connector; https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+12,J6,1,JST,SH_SM04B-SRSS-TB,Stemma/QT,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,SMD,"; Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/);"
+13,"R1,R3,R6,R7,R14,R16",6,Generic,Generic 1%,10k,R_0402_1005Metric,SMD,; Resistor; 
+14,"R2,R8,R9,R10,R13",5,Generic,Generic,5k1,R_0402_1005Metric,SMD,; Resistor; 
+15,"R4,R5",2,Generic,Generic,27R,R_0402_1005Metric,SMD,; Resistor; 
+16,R11,1,Generic,Generic,330R,R_0402_1005Metric,SMD,; Resistor; 
+17,R12,1,Generic,Generic,2k2,R_0402_1005Metric,SMD,; Resistor; 
+18,R15,1,Generic,Generic 1%,20k,R_0402_1005Metric,SMD,; Resistor; 
+19,"SW1,SW2",2,C&K,PTS810 SJS 250 SMTR LFS,SW_Push,PTS_810,SMD,"; Push button switch, generic, two pins; "
+20,U2,1,Espressif,ESP32-C3-MINI-1-N4,ESP32-C3-MINI-1,ESP32-C3-MINI-1,SMD,"; ESP32-C3-MINI-1 is a general-purpose Wi-Fi and Bluetooth LE module. This module features a rich set of peripherals and a small size, which makes it an ideal choice for smart home, industrial automation, health care, consumer electronics, etc; https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf"
+21,U3,1,Crosschip,CC6900SO-5A,CC6900SO-5A,SOIC-8_3.9x4.9mm_P1.27mm,SMD,"; ±20A Bidirectional Hall-Effect Current Sensor, +3.3V supply, 66mV/A, SOIC-8; http://www.allegromicro.com/~/media/Files/Datasheets/ACS725-Datasheet.ashx?la=en"
+22,U4,1,Micrel / Microchip,MIC5524-3.3YMT-T5,MIC5524-3.3YMT-T5,TDFN-4-1EP_1x1mm_P0.65mm_EP0.5x0.5mm,SMD,"; 500mA low dropout LDO, Fixed or Adjustable, 1x1mm Thin-DFN; https://www.mouser.at/datasheet/2/268/MIC5524-875860.pdf"
+23,U5,1,Nexperia,PRTR5V0U2F,PRTR5V0U2F,SOT-886,SMD,"; Very low capacitance ESD protection diode, 2 data-line, SOT-666; https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
+24,U6,1,NXP,NXB0102GTX,NXB0102GTX,SOT833-1 (XSON8),SMD,; Dual supply translating transceiver; auto direction sensing; 3-state; https://www.mouser.at/datasheet/2/916/NXB0102-1714053.pdf
